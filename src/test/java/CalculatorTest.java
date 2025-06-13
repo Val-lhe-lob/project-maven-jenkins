@@ -70,7 +70,7 @@ class calculatorTest {
     public void multiply_shouldReturnTheProduct_ofTwoIntegers() {
         // Arrange
         final int a = 42;
-        final int b = 11;
+        final int b = 12;
 
         // Act
         final int produit = calculatorUnderTest.multiply(a, b);

@@ -24,6 +24,10 @@ public class Calculator {
         return a + b;
     }
 
+    public double add_add(double a, double b) {
+        return a + b + a;
+    }
+
     public double sub(double a, double b) {
         return a - b;
     }
